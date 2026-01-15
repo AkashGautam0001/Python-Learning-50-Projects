@@ -1,0 +1,11 @@
+name,version,category,description
+numpy,1.26.4,Scientific Computing,Fundamental package for numerical computations in Python
+pandas,2.2.0,Data Analysis,Data manipulation and analysis library
+matplotlib,3.8.2,Data Visualization,Plotting library for creating static and interactive charts
+requests,2.31.0,Networking,Simple and elegant HTTP library
+fastapi,0.110.0,Web Framework,High-performance API framework for building backend services
+flask,3.0.0,Web Framework,Lightweight web framework for small to medium applications
+scikit-learn,1.4.0,Machine Learning,Tools for data mining and machine learning
+torch,2.1.2,Deep Learning,Deep learning framework for research and production
+django,5.0,Web Framework,Full-stack web framework for rapid development
+pytest,8.0.0,Testing,Testing framework for writing simple and scalable test cases
